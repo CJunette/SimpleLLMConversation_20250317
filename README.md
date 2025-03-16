@@ -20,4 +20,4 @@ To run front end code, follow the steps below:
 
 The frontend code will be running on http://localhost:3000/, while the backend code will be running on http://localhost:5000/.
 
-### Since I used a proxy and Azure for OpenAI API, I recommend commenting out the `init_openai()` function in `server.py` and modifying the relevant code in `send_input_to_llm()` to use the OpenAI API directly.
+## Since I used a proxy and Azure for OpenAI API, I recommend commenting out the `init_openai()` function in `server.py` and modifying the relevant code in `send_input_to_llm()` to use the OpenAI API directly.
